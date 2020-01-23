@@ -1,5 +1,5 @@
 body {
-    background-color: gray;
+    background-color: #f3cfec;
 }
 
 p {
@@ -7,27 +7,47 @@ p {
 }
 
 #special {
-    color: violet;
+    color: #800080;
 }
 
-h1, h2, h3 {
-    color: yellow;
+h1 {
+    color: #bf22bf;
+}
+
+h2 {
+    color: #8080ff;
+}
+
+h3 {
+    color: #61a455;
+}
+
+h4 {
+    color: #ffff00;
+}
+
+h5 {
+    color: #ff8000;
+}
+
+h6 {
+    color: #ff0000;
 }
 
 .myClass {
-    font-style: italic;
+    font-style: cursive;
 }
 
 p.myClass {
-    color: blue;
+    color: #4480bb;
 }
 
 #paragraphId {
-    color: red;
+    color: #ff0080;
 }
 
 #blockId {
-    border: 3px solid #ff8000;
+    border: 5px dotted #fbcb84;
     background-color: #ffff80;
 }
 
@@ -36,7 +56,7 @@ p.myClass {
 }
 
 .itaCls {
-    font-style: italic;
+    font-style: monospace;
 }
 
 .upperCls {
